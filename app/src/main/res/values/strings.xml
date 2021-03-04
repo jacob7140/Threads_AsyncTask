@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTasks_Threads</string>
+    <string name="textViewSelectComplexity">Select Complexity</string>
+    <string name="buttonThread">Generate Using Thread</string>
+    <string name="buttonAsync">Generate Using AsyncTask</string>
+    <string name="textViewAverage">Average: </string>
+</resources>
